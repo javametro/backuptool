@@ -263,3 +263,4 @@ __pycache__/
 # C# files
 backuptool/backuptool/obj
 backuptool/backuptool/bin
+*/Debug/*
