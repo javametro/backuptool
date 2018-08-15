@@ -260,7 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 
-# C# files
-backuptool/backuptool/obj
-backuptool/backuptool/bin
-*/Debug/*
+backuptool/backuptool/bin/

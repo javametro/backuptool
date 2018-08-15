@@ -1,0 +1,7 @@
+C:\backuptool\backuptool\backuptool\bin\Debug\backuptool.exe.config
+C:\backuptool\backuptool\backuptool\bin\Debug\backuptool.exe
+C:\backuptool\backuptool\backuptool\bin\Debug\backuptool.pdb
+C:\backuptool\backuptool\backuptool\obj\Debug\backuptool.csprojResolveAssemblyReference.cache
+C:\backuptool\backuptool\backuptool\obj\Debug\backuptool.csproj.CoreCompileInputs.cache
+C:\backuptool\backuptool\backuptool\obj\Debug\backuptool.exe
+C:\backuptool\backuptool\backuptool\obj\Debug\backuptool.pdb
